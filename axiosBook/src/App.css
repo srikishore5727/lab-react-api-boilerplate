@@ -1,0 +1,28 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  margin:10px;
+  /* border:2px solid red; */
+}
+img{
+  margin:20px;
+}
+.description{
+  margin-top:10px;
+  margin-left:20px;
+  margin-bottom:20px;
+}
+
+.opt{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.author{
+  margin-bottom:10px;
+}
